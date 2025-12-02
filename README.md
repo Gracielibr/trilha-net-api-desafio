@@ -14,6 +14,7 @@ Este projeto é um sistema gerenciador de tarefas desenvolvido como parte do des
 - ASP.NET Core Web API - Estrutura da API REST
 
 ### Estrutura do Projeto
+```
 TrilhaApiDesafio/
 ├── Controllers/
 │   └── TarefaController.cs
@@ -28,7 +29,7 @@ TrilhaApiDesafio/
 ├── appsettings.json
 ├── appsettings.Development.json
 └── TrilhaApiDesafio.csproj
-
+```
 ## Passo a Passo da Implementação
 ### 1. Fork e Clonagem do Repositório
 - Realizado fork do repositório original da DIO
